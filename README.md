@@ -1,4 +1,4 @@
-# # <p align="center"> <b> Curso: Corretor Ortográfico em Python - Aplicando técnicas de NLP </b> 
+# <p align="center"> <b> Curso: Corretor Ortográfico em Python - Aplicando técnicas de NLP </b> 
 
 ####  📓 <a href="https://github.com/diassmatheus/NLPCorretorOrtografico/blob/main/Corretor.ipynb">Notebook</a> desenvolvido durante o curso 
 ####  ✏️ Curso da plataforma <a href="https://cursos.alura.com.br/course/nlp-corretor-ortografico">Alura</a> 
